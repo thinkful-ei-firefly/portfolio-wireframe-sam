@@ -1,3 +1,3 @@
 This is my wireframe for my portfolio project.
 
-I intend for the portfolion to consist of multiple pages and I wasn't sure what the 
+While displayed here on one screen, my intended design is to ultimately split up what you see here into 3 separate pages (landing, about me, and projects) that can be reached through the navigation.
